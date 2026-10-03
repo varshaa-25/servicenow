@@ -1,0 +1,36 @@
+ServiceNow Project Summary
+
+Project Overview
+
+The project focuses on linking training records with employee information in ServiceNow to make employee-based reporting easier. The project involves creating tables, importing employee data from Excel, transforming and validating the data, generating reports, and displaying the results through a dashboard.
+the work progress video is uploaded in the demo link and the documentations are uploaded in the GitHub. 
+Task Allocation
+
+- Deva
+  
+  - Creation of Spreadsheet
+  - Creation of Tables
+
+- Hanu
+  
+  - Creation of Import Set Table
+  - Creation of Transform Map
+
+- Adhil
+  
+  - Transform and Validate Data
+  - Enable Coalesce
+
+- Shankar
+  
+  - Insert New Data in Excel
+  - Create Report 1
+
+- Varsha – Team Lead
+  
+  - Add Reports to Dashboard
+  - Integration and Testing
+
+Overall Workflow
+
+Excel Data → ServiceNow Tables → Import Set → Transform Map → Data Validation & Coalesce → Reports → Dashboard → Integration & Testing
